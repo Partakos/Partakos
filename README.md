@@ -16,8 +16,8 @@ Here are some ideas to get you started:
 -->
 
 
-<div>
-<a href="https://github.com/Partakos">
-<img loading="lazy" height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?Partakos&layout=compact&langs_count=7&theme=dracula"/>
-<img loading="lazy" height="180em" src="https://github-readme-stats.vercel.app/api?Partakos&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
+<div style="width: 200px;">
+<a href="https://github.com/Partakos/github-readme-stats">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Partakos&langs_count=8" alt="Top Langs" />
+</a>
 </div>
