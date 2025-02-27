@@ -11,7 +11,7 @@ Sou um desenvolvedor apaixonado por tecnologia, sempre buscando aprender e criar
 - **Infraestrutura  (Estudando)**: Redes, CFTV, Configuração de Switches e Modems
 
 ### 🐍 Minhas Contribuições no GitHub
-![Snake animation](https://github.com/Partakos/Partakos/blob/output/github-contribution-grid-snake.svg)
+![Snake animation](https://raw.githubusercontent.com/Partakos/Partakos/output/github-contribution-grid-snake.svg)
 
 
 
