@@ -1,23 +1,26 @@
-## Hi there 👋
+# 👋 Olá, eu sou o PH!
 
-<!--
-**Partakos/Partakos** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+### 💻 Sobre mim
+Sou um desenvolvedor apaixonado por tecnologia, sempre buscando aprender e criar soluções eficientes. Tenho experiência com **Django, .NET C#, Oracle SQL, redes e infraestrutura**. Atualmente, estou cursando **Ciência da Computação** e trabalhando em projetos que vão desde **APIs** até **sistemas embarcados**.
 
-Here are some ideas to get you started:
+### 🚀 Tecnologias e Ferramentas
+- **Linguagens (Estudando)**: Python, C#, SQL
+- **Frameworks**: Django, .NET
+- **Banco de Dados**: Oracle SQL, PostgreSQL
+- **Front-end**: Bootstrap, HTML, CSS
+- **Infraestrutura**: Redes, CFTV, Configuração de Switches e Modems
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### 🐍 Minhas Contribuições no GitHub
+![Snake animation](https://github.com/Partakos/Partakos/blob/output/github-contribution-grid-snake.svg)
 
+### 🔥 Projetos em Destaque
+- **[PlanilhaWeb](#)** - Aplicação Django para gerenciamento de planilhas online
+- **[E-commerce de Informática](#)** - Loja virtual desenvolvida com Django e Bootstrap
+- **[Rede Social para TI](#)** - Projeto de plataforma para profissionais de tecnologia
 
-<div style="width: 200px;">
-<a href="https://github.com/Partakos/github-readme-stats">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Partakos&langs_count=8" alt="Top Langs" />
-</a>
-</div>
+### 📫 Contato
+- **LinkedIn**: [linkedin.com/in/seu-perfil](#)
+- **GitHub**: [github.com/Partakos](https://github.com/Partakos)
+- **E-mail**: seuemail@email.com
+
+💡 Sempre aberto a novas oportunidades e colaborações! 🚀
