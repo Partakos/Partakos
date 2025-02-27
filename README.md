@@ -5,22 +5,19 @@ Sou um desenvolvedor apaixonado por tecnologia, sempre buscando aprender e criar
 
 ### 🚀 Tecnologias e Ferramentas
 - **Linguagens (Estudando)**: Python, C#, SQL
-- **Frameworks**: Django, .NET
-- **Banco de Dados**: Oracle SQL, PostgreSQL
-- **Front-end**: Bootstrap, HTML, CSS
-- **Infraestrutura**: Redes, CFTV, Configuração de Switches e Modems
+- **Frameworks (Estudando)**: Django, .NET
+- **Banco de Dados (Estudando)**: Oracle SQL, PostgreSQL
+- **Front-end (Estudando)**: Bootstrap, HTML, CSS
+- **Infraestrutura  (Estudando)**: Redes, CFTV, Configuração de Switches e Modems
 
 ### 🐍 Minhas Contribuições no GitHub
 ![Snake animation](https://github.com/Partakos/Partakos/blob/output/github-contribution-grid-snake.svg)
 
-### 🔥 Projetos em Destaque
-- **[PlanilhaWeb](#)** - Aplicação Django para gerenciamento de planilhas online
-- **[E-commerce de Informática](#)** - Loja virtual desenvolvida com Django e Bootstrap
-- **[Rede Social para TI](#)** - Projeto de plataforma para profissionais de tecnologia
+
 
 ### 📫 Contato
-- **LinkedIn**: [linkedin.com/in/seu-perfil](#)
+- **LinkedIn**: www.linkedin.com/in/paulo-henrique-05p98)
 - **GitHub**: [github.com/Partakos](https://github.com/Partakos)
-- **E-mail**: seuemail@email.com
+- **E-mail**: paulohenriquemelor@gmail.com
 
 💡 Sempre aberto a novas oportunidades e colaborações! 🚀
