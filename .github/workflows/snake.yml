@@ -10,14 +10,17 @@ jobs:
   build:
     runs-on: ubuntu-latest
     steps:
-      - uses: Platane/snk@master
-        id: snake-gif
+      - name: Checkout do repositório
+        uses: actions/checkout@v4
+
+      - name: Gerar animação da cobrinha
+        uses: Platane/snk@master
         with:
           github_user_name: Partakos
           outputs: dist/github-contribution-grid-snake.svg
 
-      - name: Commit e enviar o resultado
-        uses: actions/upload-artifact@v2
+      - name: Armazenar a animação
+        uses: actions/upload-artifact@v4
         with:
           name: snake-animation
           path: dist/github-contribution-grid-snake.svg
