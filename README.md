@@ -10,8 +10,8 @@ Sou um desenvolvedor apaixonado por tecnologia, sempre buscando aprender e criar
 - **Front-end (Estudando)**: Bootstrap, HTML, CSS
 - **Infraestrutura  (Estudando)**: Redes, CFTV, Configuração de Switches e Modems
 
-### 🐍 Minhas Contribuições no GitHub
-![Snake animation](https://partakos.github.io/github-contribution-grid-snake.svg)
+### Minhas Contribuições no GitHub
+
 
 
 
