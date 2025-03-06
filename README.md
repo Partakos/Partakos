@@ -4,7 +4,7 @@
 Sou um desenvolvedor apaixonado por tecnologia, sempre buscando aprender e criar soluções eficientes. Tenho experiência com **Django, .NET C#, Oracle SQL, redes e infraestrutura**. Atualmente, estou cursando **Ciência da Computação** e trabalhando em projetos que vão desde **APIs** até **sistemas embarcados**.
 
 ### 🚀 Tecnologias e Ferramentas
-- **Linguagens (Estudando)**: Python, C#, SQL
+- **Linguagens (Estudando)**: Python, Java, C#, SQL
 - **Frameworks (Estudando)**: Django, .NET
 - **Banco de Dados (Estudando)**: Oracle SQL, PostgreSQL
 - **Front-end (Estudando)**: Bootstrap, HTML, CSS
