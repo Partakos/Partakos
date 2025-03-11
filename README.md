@@ -1,4 +1,4 @@
-<h4 align="left"># 👋 Olá, eu sou o PH!<br><br>
+[<h4 align="left"># 👋 Olá, eu sou o PH!<br><br>
 ### 💻 Sobre mim<br>Sou um desenvolvedor apaixonado por tecnologia, sempre buscando aprender e criar soluções eficientes. Tenho experiência com **Django, .NET C#, Oracle SQL, redes e infraestrutura**. Atualmente, estou cursando **Ciência da Computação** e trabalhando em projetos que vão desde **APIs** até **sistemas embarcados**.<br><br>
 ### 🚀 Tecnologias e Ferramentas<br>- **Linguagens (Estudando)**: Python, Java, C#, SQL<br>- **Frameworks (Estudando)**: Django, .NET<br>- **Banco de Dados (Estudando)**: Oracle SQL, PostgreSQL<br>- **Front-end (Estudando)**: Bootstrap, HTML, CSS<br>- **Infraestrutura  (Estudando)**: Redes, CFTV, Configuração de Switches e Modems</h4>
 
@@ -46,3 +46,4 @@
 <img src="https://raw.githubusercontent.com/Partakos/Partakos/output/snake.svg" alt="Snake animation" />
 
 ###
+](https://profile-readme-generator.com/result)
