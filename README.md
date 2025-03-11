@@ -46,4 +46,4 @@
 <img src="https://raw.githubusercontent.com/Partakos/Partakos/output/snake.svg" alt="Snake animation" />
 
 ###
-](https://profile-readme-generator.com/result)
+
