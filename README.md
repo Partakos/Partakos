@@ -21,7 +21,7 @@ Sou um desenvolvedor apaixonado por tecnologia, sempre buscando aprender e criar
 
 ###
 
-<img align="right" height="150" src="https://i.imgflip.com/65efzo.gif"  />
+<img align="right" height="150" src="https://media1.tenor.com/m/eJawqQ3QO5EAAAAd/gogeta-gasoline.gif"  />
 
 ###
 
@@ -56,6 +56,6 @@ Sou um desenvolvedor apaixonado por tecnologia, sempre buscando aprender e criar
 
 <br clear="both">
 
-<img src="https://raw.githubusercontent.com/maurodesouza/maurodesouza/output/snake.svg" alt="Snake animation" />
+<img src="https://raw.githubusercontent.com/Partakos/Partakos/output/snake.svg" alt="Snake animation" />
 
 ###
