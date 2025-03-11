@@ -1,36 +1,21 @@
-# 👋 Olá, eu sou o PH!
-
-### 💻 Sobre mim
-Sou um desenvolvedor apaixonado por tecnologia, sempre buscando aprender e criar soluções eficientes. Tenho experiência com **Django, .NET C#, Oracle SQL, redes e infraestrutura**. Atualmente, estou cursando **Ciência da Computação** e trabalhando em projetos que vão desde **APIs** até **sistemas embarcados**.
-
-### 🚀 Tecnologias e Ferramentas
-- **Linguagens (Estudando)**: Python, Java, C#, SQL
-- **Frameworks (Estudando)**: Django, .NET
-- **Banco de Dados (Estudando)**: Oracle SQL, PostgreSQL
-- **Front-end (Estudando)**: Bootstrap, HTML, CSS
-- **Infraestrutura  (Estudando)**: Redes, CFTV, Configuração de Switches e Modems
+<h4 align="left"># 👋 Olá, eu sou o PH!<br><br>
+### 💻 Sobre mim<br>Sou um desenvolvedor apaixonado por tecnologia, sempre buscando aprender e criar soluções eficientes. Tenho experiência com **Django, .NET C#, Oracle SQL, redes e infraestrutura**. Atualmente, estou cursando **Ciência da Computação** e trabalhando em projetos que vão desde **APIs** até **sistemas embarcados**.<br><br>
+### 🚀 Tecnologias e Ferramentas<br>- **Linguagens (Estudando)**: Python, Java, C#, SQL<br>- **Frameworks (Estudando)**: Django, .NET<br>- **Banco de Dados (Estudando)**: Oracle SQL, PostgreSQL<br>- **Front-end (Estudando)**: Bootstrap, HTML, CSS<br>- **Infraestrutura  (Estudando)**: Redes, CFTV, Configuração de Switches e Modems</h4>
 
 ###
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=maurodesouza&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dracula&locale=en&hide_border=false" height="150" alt="stats graph"  />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=maurodesouza&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=false" height="150" alt="languages graph"  />
+  <img src="https://github-readme-stats.vercel.app/api?username=Partakos&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dracula&locale=en&hide_border=false" height="150" alt="stats graph"  />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=Partakos&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=false" height="150" alt="languages graph"  />
 </div>
 
 ###
 
-<img align="right" height="150" src="https://media1.tenor.com/m/eJawqQ3QO5EAAAAd/gogeta-gasoline.gif"  />
-![Goku e Vegeta](https://media1.tenor.com/m/2ydKMBYR6VoAAAAd/goku-vegeta.gif)
+<img align="right" height="150" src="https://media1.tenor.com/m/2ydKMBYR6VoAAAAd/goku-vegeta.gif"  />
 
 ###
 
 <div align="left">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="30" alt="javascript logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" height="30" alt="typescript logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" height="30" alt="react logo"  />
-  <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="30" alt="html5 logo"  />
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="30" alt="css3 logo"  />
@@ -38,6 +23,12 @@ Sou um desenvolvedor apaixonado por tecnologia, sempre buscando aprender e criar
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="30" alt="python logo"  />
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/csharp/csharp-original.svg" height="30" alt="csharp logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" height="30" alt="mysql logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" height="30" alt="postgresql logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" height="30" alt="java logo"  />
 </div>
 
 ###
