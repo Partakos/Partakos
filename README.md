@@ -10,8 +10,6 @@ Sou um desenvolvedor apaixonado por tecnologia, sempre buscando aprender e criar
 - **Front-end (Estudando)**: Bootstrap, HTML, CSS
 - **Infraestrutura  (Estudando)**: Redes, CFTV, Configuração de Switches e Modems
 
-<h2 align="left">Hi 👋! My name is ... and I'm a ..., from ....</h2>
-
 ###
 
 <div align="center">
