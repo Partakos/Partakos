@@ -20,6 +20,7 @@ Sou um desenvolvedor apaixonado por tecnologia, sempre buscando aprender e criar
 ###
 
 <img align="right" height="150" src="https://media1.tenor.com/m/eJawqQ3QO5EAAAAd/gogeta-gasoline.gif"  />
+![Goku e Vegeta](https://media1.tenor.com/m/2ydKMBYR6VoAAAAd/goku-vegeta.gif)
 
 ###
 
