@@ -8,7 +8,7 @@ on:
 
   push:
     branches:
-    - master
+      - master
 
 jobs:
   generate:
@@ -21,9 +21,8 @@ jobs:
       - name: generate snake.svg
         uses: Platane/snk/svg-only@v3
         with:
-          Partakos: ${{ https://github.com/Partakos/Partakos }}
+          github_user_name: Partakos
           outputs: dist/snake.svg?palette=github-dark
-
 
       - name: push snake.svg to the output branch
         uses: crazy-max/ghaction-github-pages@v3.1.0
