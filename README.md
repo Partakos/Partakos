@@ -6,7 +6,7 @@
 
 ---
 
-<img align="right" height="180" src="https://i.makeagif.com/media/8-31-2022/Z62_MC.mp4" />
+<img align="right" height="180" src="[https://i.makeagif.com/media/8-31-2022/Z62_MC.mp4](https://media1.tenor.com/m/2ydKMBYR6VoAAAAd/goku-vegeta.gif)" />
 
 ## 🧠 Sobre mim
 
