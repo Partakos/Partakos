@@ -1,7 +1,7 @@
 <h1 align="center">👋 Olá, eu sou o PH!</h1>
 
 <p align="center">
-💻 Desenvolvedor | 🚀 Apaixonado por tecnologia | 🎓 Estudante de Ciência da Computação
+💻 Desenvolvedor | 🚀 Apaixonado por tecnologia | 🎓 Estudante de Sistemas da Informação
 </p>
 
 ---
